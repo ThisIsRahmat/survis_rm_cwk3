@@ -139,13 +139,13 @@
         "urldate": "2026-05-09",
         "year": "2025"
     },
-    "zhang_experimenting_2017": {
+    "zhang_experimenting_2024": {
         "abstract": "The recent development on large language models makes automatically constructing small programs possible. It thus has the potential to free software engineers from low-level coding and allow us to focus on the perhaps more interesting parts of software development, such as requirement engineering and system testing. In this project, we develop a prototype named AISD (AI-aided Software Development), which is capable of taking high-level (potentially vague) user requirements as inputs, generates detailed use cases, prototype system designs, and subsequently system implementation. Different from existing attempts, AISD is designed to keep the user in the loop, i.e., by repeatedly taking user feedback on use cases, high-level system designs, and prototype implementations through system testing. AISD has been evaluated with a novel benchmark of non-trivial software projects. The experimental results suggest that it might be possible to imagine a future where software engineering is reduced to requirement engineering and system testing only.",
         "author": "Zhang, Simiao and Wang, Jiaping and Dong, Guoliang and Sun, Jun and Zhang, Yueling and Pu, Geguang",
-        "file": "PDF:/Users/rahmatjunaid/Zotero/storage/UD43WZ79/Zhang et al. - 2017 - Experimenting a New Programming Practice with LLMs.pdf:application/pdf",
+        "file": "PDF:/Users/rahmatjunaid/Zotero/storage/UD43WZ79/Zhang et al. - 2024 - Experimenting a New Programming Practice with LLMs.pdf:application/pdf",
         "language": "en",
         "title": "Experimenting a {New} {Programming} {Practice} with {LLMs}",
         "type": "article",
-        "year": "2017"
+        "year": "2024"
     }
 };
